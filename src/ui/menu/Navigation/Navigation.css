@@ -1,0 +1,15 @@
+.navigation-wrapper {
+    max-width: 80%;
+    height: 100%;
+}
+.menu, .menu-content{
+    display: flex;
+    max-width: 100%;
+    flex-direction: column;
+    height: 100%;
+    max-height: 100%;
+}
+
+.menu-list {
+    flex-grow: 1;
+}

@@ -1,0 +1,22 @@
+.terminal-wrapper {
+    position: relative;
+    display: flex;
+    text-align: left;
+    flex-direction: column;
+    background: rgb(150, 150, 142);
+    width: 100%;
+}
+p, h1,h2,h3,h4,h5,h6 {
+    padding: 10px 10px 10px 10px;
+}
+
+.terminal {
+    margin: 0 auto 10px;
+    position: relative;
+    max-width: 95%;
+    width: 95%;
+    height: 100%;
+    display: inline-block;
+    border: #2a2a52 2px solid;
+    background: #fff;
+}

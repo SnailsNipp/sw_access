@@ -1,0 +1,2900 @@
+[
+  {
+    "dormName": "Dorm 1",
+    "floors": [
+      {
+        "floorNumber": 1,
+        "switches": [
+          {
+            "name": "Center",
+            "model": "Model 1",
+            "ip": "10.201.99.1",
+            "side": "Left", "id": "1111",
+            "firmware": "1.0.0"
+          },{
+            "name": "Switch 1",
+            "model": "Model 1",
+            "ip": "10.201.99.11",
+            "side": "Left", "id": "111",
+            "firmware": "1.0.0"
+          },
+          {
+            "name": "Switch 2",
+            "model": "Model 2",
+            "ip": "10.201.99.12",
+            "side": "Right", "id": "112",
+            "firmware": "1.0.0"
+          }
+        ]
+      },{
+        "floorNumber": 2,
+        "switches": [
+          {
+            "name": "Switch 3",
+            "model": "Model 3",
+            "ip": "10.201.99.21",
+            "side": "Left", "id": "121",
+            "firmware": "1.0.0"
+          },
+          {
+            "name": "Switch 4",
+            "model": "Model 4",
+            "ip": "10.201.99.22",
+            "side": "Right", "id": "122",
+            "firmware": "1.0.0"
+          }
+        ]
+      },{
+        "floorNumber": 3,
+        "switches": [
+          {
+            "name": "Switch 5",
+            "model": "Model 1",
+            "ip": "10.201.99.31",
+            "side": "Left", "id": "131",
+            "firmware": "1.0.0"
+          },
+          {
+            "name": "Switch 1",
+            "model": "Model 2",
+            "ip": "10.201.99.32",
+            "side": "Right", "id": "132",
+            "firmware": "1.0.0"
+          }
+        ]
+      },{
+        "floorNumber": 4,
+        "switches": [
+          {
+            "name": "Switch 1",
+            "model": "Model 1",
+            "ip": "10.201.99.41",
+            "side": "Left", "id": "141",
+            "firmware": "1.0.0"
+          },
+          {
+            "name": "Switch 2",
+            "model": "Model 2",
+            "ip": "10.201.99.42",
+            "side": "Right", "id": "142",
+            "firmware": "1.0.0"
+          }
+        ]
+      },{
+        "floorNumber": 5,
+        "switches": [
+          {
+            "name": "Switch 1",
+            "model": "Model 1",
+            "ip": "10.201.99.51",
+            "side": "Left", "id": "151",
+            "firmware": "1.0.0"
+          },
+          {
+            "name": "Switch 2",
+            "model": "Model 2",
+            "ip": "10.201.99.52",
+            "side": "Right", "id": "152",
+            "firmware": "1.0.0"
+          }
+        ]
+      }
+    ]
+  },{
+    "dormName": "Dorm 2",
+    "floors": [
+      {
+        "floorNumber": 1,
+        "switches": [
+          {
+            "name": "Switch 1",
+            "model": "Model 1",
+            "ip": "10.202.99.1",
+            "side": "Left", "id": "211",
+            "firmware": "1.0.0"
+          },{
+            "name": "Switch 1",
+            "model": "Model 1",
+            "ip": "10.202.99.11",
+            "side": "Left", "id": "211",
+            "firmware": "1.0.0"
+          },
+          {
+            "name": "Switch 2",
+            "model": "Model 2",
+            "ip": "10.202.99.12",
+            "side": "Right", "id": "212",
+            "firmware": "1.0.0"
+          }
+        ]
+      },{
+        "floorNumber": 2,
+        "switches": [
+          {
+            "name": "Switch 3",
+            "model": "Model 3",
+            "ip": "10.202.99.21",
+            "side": "Left", "id": "221",
+            "firmware": "1.0.0"
+          },
+          {
+            "name": "Switch 4",
+            "model": "Model 4",
+            "ip": "10.202.99.22",
+            "side": "Right", "id": "222",
+            "firmware": "1.0.0"
+          }
+        ]
+      },{
+        "floorNumber": 3,
+        "switches": [
+          {
+            "name": "Switch 5",
+            "model": "Model 1",
+            "ip": "10.202.99.31",
+            "side": "Left", "id": "231",
+            "firmware": "1.0.0"
+          },
+          {
+            "name": "Switch 1",
+            "model": "Model 2",
+            "ip": "10.202.99.32",
+            "side": "Right", "id": "232",
+            "firmware": "1.0.0"
+          }
+        ]
+      },{
+        "floorNumber": 4,
+        "switches": [
+          {
+            "name": "Switch 1",
+            "model": "Model 1",
+            "ip": "10.202.99.41",
+            "side": "Left", "id": "241",
+            "firmware": "1.0.0"
+          },
+          {
+            "name": "Switch 2",
+            "model": "Model 2",
+            "ip": "10.202.99.42",
+            "side": "Right", "id": "242",
+            "firmware": "1.0.0"
+          }
+        ]
+      },{
+        "floorNumber": 5,
+        "switches": [
+          {
+            "name": "Switch 1",
+            "model": "Model 1",
+            "ip": "10.202.99.51",
+            "side": "Left", "id": "251",
+            "firmware": "1.0.0"
+          },
+          {
+            "name": "Switch 2",
+            "model": "Model 2",
+            "ip": "10.202.99.52",
+            "side": "Right", "id": "252",
+            "firmware": "1.0.0"
+          }
+        ]
+      }
+    ]
+  },{
+    "dormName": "Dorm 3",
+    "floors": [
+      {
+        "floorNumber": 1,
+        "switches": [
+          {
+            "name": "Hell center",
+            "model": "Model 1",
+            "ip": "10.200.0.3",
+            "side": "Center", "id": "3111",
+            "firmware": "1.0.0"
+          },{
+            "name": "Sw1",
+            "model": "Model 2",
+            "ip": "192.168.1.2",
+            "side": "Right", "id": "312",
+            "firmware": "1.0.0"
+          },{
+            "name": "Sw2",
+            "model": "Model 2",
+            "ip": "192.168.1.2",
+            "side": "Right", "id": "312",
+            "firmware": "1.0.0"
+          }
+        ]
+      }
+    ]
+  },{
+    "dormName": "Dorm 4",
+    "floors": [
+      {
+        "floorNumber": 1,
+        "switches": [
+          {
+            "name": "Center",
+            "model": "Model 1",
+            "ip": "10.200.0.4",
+            "side": "Left", "id": "4111",
+            "firmware": "1.0.0"
+          }
+        ]
+      },{
+        "floorNumber": 2,
+        "switches": [
+          {
+            "name": "Switch 1",
+            "model": "Model 1",
+            "ip": "10.200.0.41",
+            "side": "Left", "id": "411",
+            "firmware": "1.0.0"
+          },
+          {
+            "name": "Switch 2",
+            "model": "Model 2",
+            "ip": "10.200.0.42",
+            "side": "Right", "id": "412",
+            "firmware": "1.0.0"
+          }
+        ]
+      },{
+        "floorNumber": 3,
+        "switches": [
+          {
+            "name": "Switch 1",
+            "model": "Model 3",
+            "ip": "10.200.0.43",
+            "side": "Left", "id": "421",
+            "firmware": "1.0.0"
+          },
+          {
+            "name": "Switch 2",
+            "model": "Model 4",
+            "ip": "10.200.0.44",
+            "side": "Right", "id": "422",
+            "firmware": "1.0.0"
+          }
+        ]
+      },{
+        "floorNumber": 4,
+        "switches": [
+          {
+            "name": "Switch 1",
+            "model": "Model 1",
+            "ip": "10.200.0.45",
+            "side": "Left", "id": "431",
+            "firmware": "1.0.0"
+          },
+          {
+            "name": "Switch 2",
+            "model": "Model 2",
+            "ip": "10.200.0.47",
+            "side": "Right", "id": "432",
+            "firmware": "1.0.0"
+          }
+        ]
+      },{
+        "floorNumber": 5,
+        "switches": [
+          {
+            "name": "Switch 1",
+            "model": "Model 1",
+            "ip": "10.200.0.48",
+            "side": "Left", "id": "441",
+            "firmware": "1.0.0"
+          },
+          {
+            "name": "Switch 2",
+            "model": "Model 2",
+            "ip": "10.200.0.49",
+            "side": "Right", "id": "442",
+            "firmware": "1.0.0"
+          }
+        ]
+      }
+    ]
+  },{
+    "dormName": "Dorm 5",
+    "floors": [
+      {
+        "floorNumber": 1,
+        "switches": [
+          {
+            "name": "Center",
+            "model": "Model 1",
+            "ip": "10.205.99.1",
+            "side": "Left", "id": "5111",
+            "firmware": "1.0.0"
+          },{
+            "name": "Switch 1",
+            "model": "Model 1",
+            "ip": "10.205.99.51",
+            "side": "Left", "id": "511",
+            "firmware": "1.0.0"
+          },
+          {
+            "name": "Switch 2",
+            "model": "Model 2",
+            "ip": "10.205.99.52",
+            "side": "Right", "id": "512",
+            "firmware": "1.0.0"
+          }
+        ]
+      },{
+        "floorNumber": 2,
+        "switches": [
+          {
+            "name": "Switch 3",
+            "model": "Model 3",
+            "ip": "10.205.99.53",
+            "side": "Left", "id": "521",
+            "firmware": "1.0.0"
+          },
+          {
+            "name": "Switch 4",
+            "model": "Model 4",
+            "ip": "10.205.99.54",
+            "side": "Right", "id": "522",
+            "firmware": "1.0.0"
+          }
+        ]
+      },{
+        "floorNumber": 3,
+        "switches": [
+          {
+            "name": "Switch 5",
+            "model": "Model 1",
+            "ip": "10.205.99.55",
+            "side": "Left", "id": "531",
+            "firmware": "1.0.0"
+          },
+          {
+            "name": "Switch 1",
+            "model": "Model 2",
+            "ip": "10.205.99.56",
+            "side": "Right", "id": "532",
+            "firmware": "1.0.0"
+          }
+        ]
+      },{
+        "floorNumber": 4,
+        "switches": [
+          {
+            "name": "Switch 1",
+            "model": "Model 1",
+            "ip": "10.205.99.57",
+            "side": "Left", "id": "541",
+            "firmware": "1.0.0"
+          },
+          {
+            "name": "Switch 2",
+            "model": "Model 2",
+            "ip": "10.205.99.58",
+            "side": "Right", "id": "542",
+            "firmware": "1.0.0"
+          }
+        ]
+      },{
+        "floorNumber": 5,
+        "switches": [
+          {
+            "name": "Switch 1",
+            "model": "Model 1",
+            "ip": "10.205.99.59",
+            "side": "Left", "id": "551",
+            "firmware": "1.0.0"
+          },
+          {
+            "name": "Switch 2",
+            "model": "Model 2",
+            "ip": "192.168.1.2",
+            "side": "Right", "id": "552",
+            "firmware": "1.0.0"
+          }
+        ]
+      }
+    ]
+  },{
+    "dormName": "Dorm 6",
+    "floors": [
+      {
+        "floorNumber": 1,
+        "switches": [
+          {
+            "name": "Center",
+            "model": "Model 1",
+            "ip": "10.200.0.6",
+            "side": "Left", "id": "611",
+            "firmware": "1.0.0"
+          },{
+            "name": "Switch 1",
+            "model": "Model 1",
+            "ip": "10.?.?.?",
+            "side": "Left", "id": "611",
+            "firmware": "1.0.0"
+          },
+          {
+            "name": "Switch 2",
+            "model": "Model 2",
+            "ip": "10.?.?.?",
+            "side": "Right", "id": "612",
+            "firmware": "1.0.0"
+          }
+        ]
+      },{
+        "floorNumber": 2,
+        "switches": [
+          {
+            "name": "Switch 3",
+            "model": "Model 3",
+            "ip": "10.?.?.?",
+            "side": "Left", "id": "621",
+            "firmware": "1.0.0"
+          },
+          {
+            "name": "Switch 4",
+            "model": "Model 4",
+            "ip": "10.?.?.?",
+            "side": "Right", "id": "622",
+            "firmware": "1.0.0"
+          }
+        ]
+      },{
+        "floorNumber": 3,
+        "switches": [
+          {
+            "name": "Switch 5",
+            "model": "Model 1",
+            "ip": "10.?.?.?",
+            "side": "Left", "id": "631",
+            "firmware": "1.0.0"
+          },
+          {
+            "name": "Switch 1",
+            "model": "Model 2",
+            "ip": "10.?.?.?",
+            "side": "Right", "id": "632",
+            "firmware": "1.0.0"
+          }
+        ]
+      },{
+        "floorNumber": 4,
+        "switches": [
+          {
+            "name": "Switch 1",
+            "model": "Model 1",
+            "ip": "192.168.1.1",
+            "side": "Left", "id": "641",
+            "firmware": "1.0.0"
+          },
+          {
+            "name": "Switch 2",
+            "model": "Model 2",
+            "ip": "192.168.1.2",
+            "side": "Right", "id": "642",
+            "firmware": "1.0.0"
+          }
+        ]
+      },{
+        "floorNumber": 5,
+        "switches": [
+          {
+            "name": "Switch 1",
+            "model": "Model 1",
+            "ip": "10.?.?.?",
+            "side": "Left", "id": "651",
+            "firmware": "1.0.0"
+          },
+          {
+            "name": "Switch 2",
+            "model": "Model 2",
+            "ip": "10.?.?.?",
+            "side": "Right", "id": "652",
+            "firmware": "1.0.0"
+          }
+        ]
+      }
+    ]
+  },{
+    "dormName": "Dorm 7",
+    "floors": [
+      {
+        "floorNumber": 1,
+        "switches": [
+          {
+            "name": "Center",
+            "model": "Model 1",
+            "ip": "10.200.0.7",
+            "side": "Left", "id": "7111",
+            "firmware": "1.0.0"
+          },{
+            "name": "Switch 1",
+            "model": "Model 1",
+            "ip": "10.200.0.71",
+            "side": "Left", "id": "711",
+            "firmware": "1.0.0"
+          },
+          {
+            "name": "Switch 2",
+            "model": "Model 2",
+            "ip": "10.200.0.72",
+            "side": "Right", "id": "712",
+            "firmware": "1.0.0"
+          }
+        ]
+      },{
+        "floorNumber": 2,
+        "switches": [
+          {
+            "name": "Switch 3",
+            "model": "Model 3",
+            "ip": "10.200.0.73",
+            "side": "Left", "id": "721",
+            "firmware": "1.0.0"
+          },
+          {
+            "name": "Switch 4",
+            "model": "Model 4",
+            "ip": "10.200.0.74",
+            "side": "Right", "id": "722",
+            "firmware": "1.0.0"
+          }
+        ]
+      },{
+        "floorNumber": 3,
+        "switches": [
+          {
+            "name": "Switch 5",
+            "model": "Model 1",
+            "ip": "10.200.0.75",
+            "side": "Left", "id": "731",
+            "firmware": "1.0.0"
+          },
+          {
+            "name": "Switch 1",
+            "model": "Model 2",
+            "ip": "10.200.0.76",
+            "side": "Right", "id": "732",
+            "firmware": "1.0.0"
+          }
+        ]
+      },{
+        "floorNumber": 4,
+        "switches": [
+          {
+            "name": "Switch 1",
+            "model": "Model 1",
+            "ip": "10.200.0.77",
+            "side": "Left", "id": "741",
+            "firmware": "1.0.0"
+          },
+          {
+            "name": "Switch 2",
+            "model": "Model 2",
+            "ip": "10.200.0.78",
+            "side": "Right", "id": "742",
+            "firmware": "1.0.0"
+          }
+        ]
+      },{
+        "floorNumber": 5,
+        "switches": [
+          {
+            "name": "Switch 1",
+            "model": "Model 1",
+            "ip": "10.200.0.79",
+            "side": "Left", "id": "751",
+            "firmware": "1.0.0"
+          },
+          {
+            "name": "Switch 2",
+            "model": "Model 2",
+            "ip": "192.168.1.2",
+            "side": "Right", "id": "152",
+            "firmware": "1.0.0"
+          }
+        ]
+      }
+    ]
+  },{
+    "dormName": "Dorm 8",
+    "floors": [
+      {
+        "floorNumber": 1,
+        "switches": [
+          {
+            "name": "Center",
+            "model": "Model 1",
+            "ip": "10.200.0.8",
+            "side": "Left", "id": "8111",
+            "firmware": "1.0.0"
+          },{
+            "name": "Switch 1",
+            "model": "Model 1",
+            "ip": "10.208.99.11",
+            "side": "Left", "id": "811",
+            "firmware": "1.0.0"
+          },
+          {
+            "name": "Switch 2",
+            "model": "Model 2",
+            "ip": "10.208.99.12",
+            "side": "Right", "id": "812",
+            "firmware": "1.0.0"
+          }
+        ]
+      },{
+        "floorNumber": 2,
+        "switches": [
+          {
+            "name": "Switch 3",
+            "model": "Model 3",
+            "ip": "10.208.99.21",
+            "side": "Left", "id": "821",
+            "firmware": "1.0.0"
+          },
+          {
+            "name": "Switch 4",
+            "model": "Model 4",
+            "ip": "10.208.99.22",
+            "side": "Right", "id": "822",
+            "firmware": "1.0.0"
+          }
+        ]
+      },{
+        "floorNumber": 3,
+        "switches": [
+          {
+            "name": "Switch 5",
+            "model": "Model 1",
+            "ip": "10.208.99.31",
+            "side": "Left", "id": "831",
+            "firmware": "1.0.0"
+          },
+          {
+            "name": "Switch 1",
+            "model": "Model 2",
+            "ip": "10.208.99.32",
+            "side": "Right", "id": "832",
+            "firmware": "1.0.0"
+          }
+        ]
+      },{
+        "floorNumber": 4,
+        "switches": [
+          {
+            "name": "Switch 1",
+            "model": "Model 1",
+            "ip": "10.208.99.41",
+            "side": "Left", "id": "841",
+            "firmware": "1.0.0"
+          },
+          {
+            "name": "Switch 2",
+            "model": "Model 2",
+            "ip": "10.208.99.42",
+            "side": "Right", "id": "842",
+            "firmware": "1.0.0"
+          }
+        ]
+      },{
+        "floorNumber": 5,
+        "switches": [
+          {
+            "name": "Switch 1",
+            "model": "Model 1",
+            "ip": "10.208.99.51",
+            "side": "Left", "id": "851",
+            "firmware": "1.0.0"
+          },
+          {
+            "name": "Switch 2",
+            "model": "Model 2",
+            "ip": "10.208.99.52",
+            "side": "Right", "id": "852",
+            "firmware": "1.0.0"
+          }
+        ]
+      },{
+        "floorNumber": 6,
+        "switches": [
+          {
+            "name": "Switch 3",
+            "model": "Model 3",
+            "ip": "10.208.99.61",
+            "side": "Left", "id": "861",
+            "firmware": "1.0.0"
+          },
+          {
+            "name": "Switch 4",
+            "model": "Model 4",
+            "ip": "10.208.99.62",
+            "side": "Right", "id": "862",
+            "firmware": "1.0.0"
+          }
+        ]
+      },{
+        "floorNumber": 7,
+        "switches": [
+          {
+            "name": "Switch 3",
+            "model": "Model 3",
+            "ip": "10.208.99.71",
+            "side": "Left", "id": "871",
+            "firmware": "1.0.0"
+          },
+          {
+            "name": "Switch 4",
+            "model": "Model 4",
+            "ip": "10.208.99.72",
+            "side": "Right", "id": "872",
+            "firmware": "1.0.0"
+          }
+        ]
+      },{
+        "floorNumber": 8,
+        "switches": [
+          {
+            "name": "Switch 3",
+            "model": "Model 3",
+            "ip": "10.208.99.81",
+            "side": "Left", "id": "881",
+            "firmware": "1.0.0"
+          },
+          {
+            "name": "Switch 4",
+            "model": "Model 4",
+            "ip": "10.208.99.82",
+            "side": "Right", "id": "882",
+            "firmware": "1.0.0"
+          }
+        ]
+      },{
+        "floorNumber": 9,
+        "switches": [
+          {
+            "name": "Switch 3",
+            "model": "Model 3",
+            "ip": "10.208.99.91",
+            "side": "Left", "id": "891",
+            "firmware": "1.0.0"
+          },
+          {
+            "name": "Switch 4",
+            "model": "Model 4",
+            "ip": "10.208.99.92",
+            "side": "Right", "id": "892",
+            "firmware": "1.0.0"
+          }
+        ]
+      }
+    ]
+  },{
+  "dormName": "Dorm 9",
+  "floors": [
+      {
+        "floorNumber": 1,
+        "switches": [
+          {
+            "name": "Center",
+            "model": "Model 1",
+            "ip": "10.200.0.9",
+            "side": "Left", "id": "9111",
+            "firmware": "1.0.0"
+          },{
+            "name": "Switch 1",
+            "model": "Model 1",
+            "ip": "10.209.99.11",
+            "side": "Left", "id": "911",
+            "firmware": "1.0.0"
+          },
+          {
+            "name": "Switch 2",
+            "model": "Model 2",
+            "ip": "10.209.99.12",
+            "side": "Right", "id": "912",
+            "firmware": "1.0.0"
+          }
+        ]
+      },{
+        "floorNumber": 2,
+        "switches": [
+          {
+            "name": "Switch 3",
+            "model": "Model 3",
+            "ip": "10.209.99.21",
+            "side": "Left", "id": "921",
+            "firmware": "1.0.0"
+          },
+          {
+            "name": "Switch 4",
+            "model": "Model 4",
+            "ip": "10.209.99.22",
+            "side": "Right", "id": "922",
+            "firmware": "1.0.0"
+          }
+        ]
+      },{
+        "floorNumber": 3,
+        "switches": [
+          {
+            "name": "Switch 5",
+            "model": "Model 1",
+            "ip": "10.209.99.31",
+            "side": "Left", "id": "931",
+            "firmware": "1.0.0"
+          },
+          {
+            "name": "Switch 1",
+            "model": "Model 2",
+            "ip": "10.209.99.32",
+            "side": "Right", "id": "932",
+            "firmware": "1.0.0"
+          }
+        ]
+      },{
+        "floorNumber": 4,
+        "switches": [
+          {
+            "name": "Switch 1",
+            "model": "Model 1",
+            "ip": "10.209.99.41",
+            "side": "Left", "id": "941",
+            "firmware": "1.0.0"
+          },
+          {
+            "name": "Switch 2",
+            "model": "Model 2",
+            "ip": "10.209.99.42",
+            "side": "Right", "id": "942",
+            "firmware": "1.0.0"
+          }
+        ]
+      },{
+        "floorNumber": 5,
+        "switches": [
+          {
+            "name": "Switch 1",
+            "model": "Model 1",
+            "ip": "10.209.99.51",
+            "side": "Left", "id": "951",
+            "firmware": "1.0.0"
+          },
+          {
+            "name": "Switch 2",
+            "model": "Model 2",
+            "ip": "10.209.99.52",
+            "side": "Right", "id": "952",
+            "firmware": "1.0.0"
+          }
+        ]
+      },{
+        "floorNumber": 6,
+        "switches": [
+          {
+            "name": "Switch 3",
+            "model": "Model 3",
+            "ip": "10.209.99.61",
+            "side": "Left", "id": "961",
+            "firmware": "1.0.0"
+          },
+          {
+            "name": "Switch 4",
+            "model": "Model 4",
+            "ip": "10.209.99.62",
+            "side": "Right", "id": "962",
+            "firmware": "1.0.0"
+          }
+        ]
+      },{
+        "floorNumber": 7,
+        "switches": [
+          {
+            "name": "Switch 3",
+            "model": "Model 3",
+            "ip": "10.209.99.71",
+            "side": "Left", "id": "971",
+            "firmware": "1.0.0"
+          },
+          {
+            "name": "Switch 4",
+            "model": "Model 4",
+            "ip": "10.209.99.72",
+            "side": "Right", "id": "972",
+            "firmware": "1.0.0"
+          }
+        ]
+      },{
+        "floorNumber": 8,
+        "switches": [
+          {
+            "name": "Switch 3",
+            "model": "Model 3",
+            "ip": "10.209.99.81",
+            "side": "Left", "id": "981",
+            "firmware": "1.0.0"
+          },
+          {
+            "name": "Switch 4",
+            "model": "Model 4",
+            "ip": "10.209.99.82",
+            "side": "Right", "id": "982",
+            "firmware": "1.0.0"
+          }
+        ]
+      },{
+        "floorNumber": 9,
+        "switches": [
+          {
+            "name": "Switch 3",
+            "model": "Model 3",
+            "ip": "10.209.99.91",
+            "side": "Left", "id": "991",
+            "firmware": "1.0.0"
+          },
+          {
+            "name": "Switch 4",
+            "model": "Model 4",
+            "ip": "10.209.99.92",
+            "side": "Right", "id": "992",
+            "firmware": "1.0.0"
+          }
+        ]
+      }
+    ]
+  },{
+  "dormName": "Dorm 10",
+  "floors": [
+      {
+        "floorNumber": 1,
+        "switches": [
+          {
+            "name": "Center",
+            "model": "Model 1",
+            "ip": "10.200.0.10",
+            "side": "Left", "id": "10111",
+            "firmware": "1.0.0"
+          },{
+            "name": "Switch 1",
+            "model": "Model 1",
+            "ip": "10.210.99.101",
+            "side": "Left", "id": "1011",
+            "firmware": "1.0.0"
+          },
+          {
+            "name": "Switch 2",
+            "model": "Model 2",
+            "ip": "10.210.99.102",
+            "side": "Right", "id": "1012",
+            "firmware": "1.0.0"
+          }
+        ]
+      },{
+        "floorNumber": 2,
+        "switches": [
+          {
+            "name": "Switch 3",
+            "model": "Model 3",
+            "ip": "10.210.99.103",
+            "side": "Left", "id": "1021",
+            "firmware": "1.0.0"
+          },
+          {
+            "name": "Switch 4",
+            "model": "Model 4",
+            "ip": "10.210.99.104",
+            "side": "Right", "id": "1022",
+            "firmware": "1.0.0"
+          }
+        ]
+      },{
+        "floorNumber": 3,
+        "switches": [
+          {
+            "name": "Switch 5",
+            "model": "Model 1",
+            "ip": "10.210.99.105",
+            "side": "Left", "id": "1031",
+            "firmware": "1.0.0"
+          },
+          {
+            "name": "Switch 1",
+            "model": "Model 2",
+            "ip": "10.210.99.106",
+            "side": "Right", "id": "1032",
+            "firmware": "1.0.0"
+          }
+        ]
+      },{
+        "floorNumber": 4,
+        "switches": [
+          {
+            "name": "Switch 1",
+            "model": "Model 1",
+            "ip": "10.210.99.107",
+            "side": "Left", "id": "1041",
+            "firmware": "1.0.0"
+          },
+          {
+            "name": "Switch 2",
+            "model": "Model 2",
+            "ip": "10.210.99.108",
+            "side": "Right", "id": "1042",
+            "firmware": "1.0.0"
+          }
+        ]
+      },{
+        "floorNumber": 5,
+        "switches": [
+          {
+            "name": "Switch 1",
+            "model": "Model 1",
+            "ip": "10.210.99.109",
+            "side": "Left", "id": "1051",
+            "firmware": "1.0.0"
+          },
+          {
+            "name": "Switch 2",
+            "model": "Model 2",
+            "ip": "192.168.1.2",
+            "side": "Right", "id": "152",
+            "firmware": "1.0.0"
+          }
+        ]
+      }
+    ]
+  },{
+  "dormName": "Dorm 11",
+  "floors": [
+    {
+      "floorNumber": 1,
+      "switches": [
+        {
+          "name": "Center",
+          "model": "Model 1",
+          "ip": "10.200.0.11",
+          "side": "Left", "id": "11111",
+          "firmware": "1.0.0"
+        },{
+          "name": "Switch 1",
+          "model": "Model 1",
+          "ip": "10.211.99.11",
+          "side": "Left", "id": "1111",
+          "firmware": "1.0.0"
+        },
+        {
+          "name": "Switch 2",
+          "model": "Model 2",
+          "ip": "10.211.99.12",
+          "side": "Right", "id": "1112",
+          "firmware": "1.0.0"
+        }
+      ]
+    },{
+      "floorNumber": 2,
+      "switches": [
+        {
+          "name": "Switch 3",
+          "model": "Model 3",
+          "ip": "10.211.99.21",
+          "side": "Left", "id": "1121",
+          "firmware": "1.0.0"
+        },
+        {
+          "name": "Switch 4",
+          "model": "Model 4",
+          "ip": "10.211.99.22",
+          "side": "Right", "id": "1122",
+          "firmware": "1.0.0"
+        }
+      ]
+    },{
+      "floorNumber": 3,
+      "switches": [
+        {
+          "name": "Switch 5",
+          "model": "Model 1",
+          "ip": "10.211.99.31",
+          "side": "Left", "id": "1131",
+          "firmware": "1.0.0"
+        },
+        {
+          "name": "Switch 1",
+          "model": "Model 2",
+          "ip": "10.211.99.32",
+          "side": "Right", "id": "1132",
+          "firmware": "1.0.0"
+        }
+      ]
+    },{
+      "floorNumber": 4,
+      "switches": [
+        {
+          "name": "Switch 1",
+          "model": "Model 1",
+          "ip": "10.211.99.41",
+          "side": "Left", "id": "1141",
+          "firmware": "1.0.0"
+        },
+        {
+          "name": "Switch 2",
+          "model": "Model 2",
+          "ip": "10.211.99.42",
+          "side": "Right", "id": "1142",
+          "firmware": "1.0.0"
+        }
+      ]
+    },{
+      "floorNumber": 5,
+      "switches": [
+        {
+          "name": "Switch 1",
+          "model": "Model 1",
+          "ip": "10.211.99.51",
+          "side": "Left", "id": "1151",
+          "firmware": "1.0.0"
+        },
+        {
+          "name": "Switch 2",
+          "model": "Model 2",
+          "ip": "10.211.99.52",
+          "side": "Right", "id": "1152",
+          "firmware": "1.0.0"
+        }
+      ]
+    },{
+      "floorNumber": 6,
+      "switches": [
+        {
+          "name": "Switch 3",
+          "model": "Model 3",
+          "ip": "10.211.99.61",
+          "side": "Left", "id": "1161",
+          "firmware": "1.0.0"
+        },
+        {
+          "name": "Switch 4",
+          "model": "Model 4",
+          "ip": "10.211.99.62",
+          "side": "Right", "id": "1162",
+          "firmware": "1.0.0"
+        }
+      ]
+    },{
+      "floorNumber": 7,
+      "switches": [
+        {
+          "name": "Switch 3",
+          "model": "Model 3",
+          "ip": "10.211.99.71",
+          "side": "Left", "id": "1171",
+          "firmware": "1.0.0"
+        },
+        {
+          "name": "Switch 4",
+          "model": "Model 4",
+          "ip": "10.211.99.72",
+          "side": "Right", "id": "1172",
+          "firmware": "1.0.0"
+        }
+      ]
+    },{
+      "floorNumber": 8,
+      "switches": [
+        {
+          "name": "Switch 3",
+          "model": "Model 3",
+          "ip": "10.211.99.81",
+          "side": "Left", "id": "1181",
+          "firmware": "1.0.0"
+        },
+        {
+          "name": "Switch 4",
+          "model": "Model 4",
+          "ip": "10.211.99.82",
+          "side": "Right", "id": "1182",
+          "firmware": "1.0.0"
+        }
+      ]
+    },{
+      "floorNumber": 9,
+      "switches": [
+        {
+          "name": "Switch 3",
+          "model": "Model 3",
+          "ip": "10.211.99.91",
+          "side": "Left", "id": "1191",
+          "firmware": "1.0.0"
+        },
+        {
+          "name": "Switch 4",
+          "model": "Model 4",
+          "ip": "10.211.99.92",
+          "side": "Right", "id": "1192",
+          "firmware": "1.0.0"
+        }
+      ]
+    }
+  ]
+  },{
+  "dormName": "Dorm 12",
+  "floors": [
+    {
+      "floorNumber": 1,
+      "switches": [
+        {
+          "name": "Center",
+          "model": "Model 1",
+          "ip": "10.200.0.12",
+          "side": "Left", "id": "12111",
+          "firmware": "1.0.0"
+        },{
+          "name": "Switch 1",
+          "model": "Model 1",
+          "ip": "10.212.99.11",
+          "side": "Left", "id": "1211",
+          "firmware": "1.0.0"
+        },
+        {
+          "name": "Switch 2",
+          "model": "Model 2",
+          "ip": "10.212.99.12",
+          "side": "Right", "id": "1212",
+          "firmware": "1.0.0"
+        }
+      ]
+    },{
+      "floorNumber": 2,
+      "switches": [
+        {
+          "name": "Switch 3",
+          "model": "Model 3",
+          "ip": "10.212.99.21",
+          "side": "Left", "id": "1221",
+          "firmware": "1.0.0"
+        },
+        {
+          "name": "Switch 4",
+          "model": "Model 4",
+          "ip": "10.212.99.22",
+          "side": "Right", "id": "1222",
+          "firmware": "1.0.0"
+        }
+      ]
+    },{
+      "floorNumber": 3,
+      "switches": [
+        {
+          "name": "Switch 5",
+          "model": "Model 1",
+          "ip": "10.212.99.31",
+          "side": "Left", "id": "1231",
+          "firmware": "1.0.0"
+        },
+        {
+          "name": "Switch 1",
+          "model": "Model 2",
+          "ip": "10.212.99.32",
+          "side": "Right", "id": "1232",
+          "firmware": "1.0.0"
+        }
+      ]
+    },{
+      "floorNumber": 4,
+      "switches": [
+        {
+          "name": "Switch 1",
+          "model": "Model 1",
+          "ip": "10.212.99.41",
+          "side": "Left", "id": "1241",
+          "firmware": "1.0.0"
+        },
+        {
+          "name": "Switch 2",
+          "model": "Model 2",
+          "ip": "10.212.99.42",
+          "side": "Right", "id": "1242",
+          "firmware": "1.0.0"
+        }
+      ]
+    },{
+      "floorNumber": 5,
+      "switches": [
+        {
+          "name": "Switch 1",
+          "model": "Model 1",
+          "ip": "10.212.99.51",
+          "side": "Left", "id": "1251",
+          "firmware": "1.0.0"
+        },
+        {
+          "name": "Switch 2",
+          "model": "Model 2",
+          "ip": "10.212.99.52",
+          "side": "Right", "id": "1252",
+          "firmware": "1.0.0"
+        }
+      ]
+    },{
+      "floorNumber": 6,
+      "switches": [
+        {
+          "name": "Switch 3",
+          "model": "Model 3",
+          "ip": "10.212.99.61",
+          "side": "Left", "id": "1261",
+          "firmware": "1.0.0"
+        },
+        {
+          "name": "Switch 4",
+          "model": "Model 4",
+          "ip": "10.212.99.62",
+          "side": "Right", "id": "1262",
+          "firmware": "1.0.0"
+        }
+      ]
+    },{
+      "floorNumber": 7,
+      "switches": [
+        {
+          "name": "Switch 3",
+          "model": "Model 3",
+          "ip": "10.212.99.71",
+          "side": "Left", "id": "1271",
+          "firmware": "1.0.0"
+        },
+        {
+          "name": "Switch 4",
+          "model": "Model 4",
+          "ip": "10.212.99.72",
+          "side": "Right", "id": "1272",
+          "firmware": "1.0.0"
+        }
+      ]
+    },{
+      "floorNumber": 8,
+      "switches": [
+        {
+          "name": "Switch 3",
+          "model": "Model 3",
+          "ip": "10.212.99.81",
+          "side": "Left", "id": "1281",
+          "firmware": "1.0.0"
+        },
+        {
+          "name": "Switch 4",
+          "model": "Model 4",
+          "ip": "10.212.99.82",
+          "side": "Right", "id": "1282",
+          "firmware": "1.0.0"
+        }
+      ]
+    },{
+      "floorNumber": 9,
+      "switches": [
+        {
+          "name": "Switch 3",
+          "model": "Model 3",
+          "ip": "10.212.99.91",
+          "side": "Left", "id": "1291",
+          "firmware": "1.0.0"
+        },
+        {
+          "name": "Switch 4",
+          "model": "Model 4",
+          "ip": "10.212.99.92",
+          "side": "Right", "id": "1292",
+          "firmware": "1.0.0"
+        }
+      ]
+    }
+  ]
+  },{
+  "dormName": "Dorm 13",
+  "floors": [
+    {
+      "floorNumber": 1,
+      "switches": [
+        {
+          "name": "Center",
+          "model": "Model 1",
+          "ip": "10.213.99.1",
+          "side": "Left", "id": "13111",
+          "firmware": "1.0.0"
+        },{
+          "name": "Switch 1",
+          "model": "Model 1",
+          "ip": "10.213.99.11",
+          "side": "Left", "id": "1311",
+          "firmware": "1.0.0"
+        },
+        {
+          "name": "Switch 2",
+          "model": "Model 2",
+          "ip": "10.213.99.12",
+          "side": "Right", "id": "1312",
+          "firmware": "1.0.0"
+        }
+      ]
+    },{
+      "floorNumber": 2,
+      "switches": [
+        {
+          "name": "Switch 3",
+          "model": "Model 3",
+          "ip": "10.213.99.21",
+          "side": "Left", "id": "1321",
+          "firmware": "1.0.0"
+        },
+        {
+          "name": "Switch 4",
+          "model": "Model 4",
+          "ip": "10.213.99.22",
+          "side": "Right", "id": "1322",
+          "firmware": "1.0.0"
+        }
+      ]
+    },{
+      "floorNumber": 3,
+      "switches": [
+        {
+          "name": "Switch 5",
+          "model": "Model 1",
+          "ip": "10.213.99.31",
+          "side": "Left", "id": "1331",
+          "firmware": "1.0.0"
+        },
+        {
+          "name": "Switch 1",
+          "model": "Model 2",
+          "ip": "10.213.99.32",
+          "side": "Right", "id": "1332",
+          "firmware": "1.0.0"
+        }
+      ]
+    },{
+      "floorNumber": 4,
+      "switches": [
+        {
+          "name": "Switch 1",
+          "model": "Model 1",
+          "ip": "10.213.99.41",
+          "side": "Left", "id": "1341",
+          "firmware": "1.0.0"
+        },
+        {
+          "name": "Switch 2",
+          "model": "Model 2",
+          "ip": "10.213.99.42",
+          "side": "Right", "id": "1342",
+          "firmware": "1.0.0"
+        }
+      ]
+    },{
+      "floorNumber": 5,
+      "switches": [
+        {
+          "name": "Switch 1",
+          "model": "Model 1",
+          "ip": "10.213.99.51",
+          "side": "Left", "id": "1351",
+          "firmware": "1.0.0"
+        },
+        {
+          "name": "Switch 2",
+          "model": "Model 2",
+          "ip": "10.213.99.52",
+          "side": "Right", "id": "1352",
+          "firmware": "1.0.0"
+        }
+      ]
+    },{
+      "floorNumber": 6,
+      "switches": [
+        {
+          "name": "Switch 3",
+          "model": "Model 3",
+          "ip": "10.213.99.61",
+          "side": "Left", "id": "1361",
+          "firmware": "1.0.0"
+        },
+        {
+          "name": "Switch 4",
+          "model": "Model 4",
+          "ip": "10.213.99.62",
+          "side": "Right", "id": "1362",
+          "firmware": "1.0.0"
+        }
+      ]
+    },{
+      "floorNumber": 7,
+      "switches": [
+        {
+          "name": "Switch 3",
+          "model": "Model 3",
+          "ip": "10.213.99.71",
+          "side": "Left", "id": "1371",
+          "firmware": "1.0.0"
+        },
+        {
+          "name": "Switch 4",
+          "model": "Model 4",
+          "ip": "10.213.99.72",
+          "side": "Right", "id": "1372",
+          "firmware": "1.0.0"
+        }
+      ]
+    },{
+      "floorNumber": 8,
+      "switches": [
+        {
+          "name": "Switch 3",
+          "model": "Model 3",
+          "ip": "10.213.99.81",
+          "side": "Left", "id": "1381",
+          "firmware": "1.0.0"
+        },
+        {
+          "name": "Switch 4",
+          "model": "Model 4",
+          "ip": "10.213.99.82",
+          "side": "Right", "id": "1382",
+          "firmware": "1.0.0"
+        }
+      ]
+    },{
+      "floorNumber": 9,
+      "switches": [
+        {
+          "name": "Switch 3",
+          "model": "Model 3",
+          "ip": "10.213.99.91",
+          "side": "Left", "id": "1391",
+          "firmware": "1.0.0"
+        },
+        {
+          "name": "Switch 4",
+          "model": "Model 4",
+          "ip": "10.213.99.92",
+          "side": "Right", "id": "1392",
+          "firmware": "1.0.0"
+        }
+      ]
+    }
+  ]
+  },{
+  "dormName": "Dorm 14",
+  "floors": [
+    {
+      "floorNumber": 1,
+      "switches": [
+        {
+          "name": "Center",
+          "model": "Model 1",
+          "ip": "10.200.0.9",
+          "side": "Left", "id": "9111",
+          "firmware": "1.0.0"
+        },{
+          "name": "Switch 1",
+          "model": "Model 1",
+          "ip": "10.209.99.11",
+          "side": "Left", "id": "911",
+          "firmware": "1.0.0"
+        },
+        {
+          "name": "Switch 2",
+          "model": "Model 2",
+          "ip": "10.209.99.12",
+          "side": "Right", "id": "912",
+          "firmware": "1.0.0"
+        }
+      ]
+    },{
+      "floorNumber": 2,
+      "switches": [
+        {
+          "name": "Switch 3",
+          "model": "Model 3",
+          "ip": "10.209.99.21",
+          "side": "Left", "id": "921",
+          "firmware": "1.0.0"
+        },
+        {
+          "name": "Switch 4",
+          "model": "Model 4",
+          "ip": "10.209.99.22",
+          "side": "Right", "id": "922",
+          "firmware": "1.0.0"
+        }
+      ]
+    },{
+      "floorNumber": 3,
+      "switches": [
+        {
+          "name": "Switch 5",
+          "model": "Model 1",
+          "ip": "10.209.99.31",
+          "side": "Left", "id": "931",
+          "firmware": "1.0.0"
+        },
+        {
+          "name": "Switch 1",
+          "model": "Model 2",
+          "ip": "10.209.99.32",
+          "side": "Right", "id": "932",
+          "firmware": "1.0.0"
+        }
+      ]
+    },{
+      "floorNumber": 4,
+      "switches": [
+        {
+          "name": "Switch 1",
+          "model": "Model 1",
+          "ip": "10.209.99.41",
+          "side": "Left", "id": "941",
+          "firmware": "1.0.0"
+        },
+        {
+          "name": "Switch 2",
+          "model": "Model 2",
+          "ip": "10.209.99.42",
+          "side": "Right", "id": "942",
+          "firmware": "1.0.0"
+        }
+      ]
+    },{
+      "floorNumber": 5,
+      "switches": [
+        {
+          "name": "Switch 1",
+          "model": "Model 1",
+          "ip": "10.209.99.51",
+          "side": "Left", "id": "951",
+          "firmware": "1.0.0"
+        },
+        {
+          "name": "Switch 2",
+          "model": "Model 2",
+          "ip": "10.209.99.52",
+          "side": "Right", "id": "952",
+          "firmware": "1.0.0"
+        }
+      ]
+    }
+  ]
+  },{
+  "dormName": "Dorm 15",
+  "floors": [
+    {
+      "floorNumber": 1,
+      "switches": [
+        {
+          "name": "Center",
+          "model": "Model 1",
+          "ip": "10.215.99.1",
+          "side": "Left", "id": "15111",
+          "firmware": "1.0.0"
+        },{
+          "name": "Switch 1",
+          "model": "Model 1",
+          "ip": "10.215.99.11",
+          "side": "Left", "id": "1511",
+          "firmware": "1.0.0"
+        },
+        {
+          "name": "Switch 2",
+          "model": "Model 2",
+          "ip": "10.215.99.12",
+          "side": "Right", "id": "1512",
+          "firmware": "1.0.0"
+        }
+      ]
+    },{
+      "floorNumber": 2,
+      "switches": [
+        {
+          "name": "Switch 3",
+          "model": "Model 3",
+          "ip": "10.215.99.21",
+          "side": "Left", "id": "1521",
+          "firmware": "1.0.0"
+        },
+        {
+          "name": "Switch 4",
+          "model": "Model 4",
+          "ip": "10.215.99.22",
+          "side": "Right", "id": "1522",
+          "firmware": "1.0.0"
+        }
+      ]
+    },{
+      "floorNumber": 3,
+      "switches": [
+        {
+          "name": "Switch 5",
+          "model": "Model 1",
+          "ip": "10.215.99.31",
+          "side": "Left", "id": "1531",
+          "firmware": "1.0.0"
+        },
+        {
+          "name": "Switch 1",
+          "model": "Model 2",
+          "ip": "10.215.99.32",
+          "side": "Right", "id": "1532",
+          "firmware": "1.0.0"
+        }
+      ]
+    },{
+      "floorNumber": 4,
+      "switches": [
+        {
+          "name": "Switch 1",
+          "model": "Model 1",
+          "ip": "10.215.99.41",
+          "side": "Left", "id": "1541",
+          "firmware": "1.0.0"
+        },
+        {
+          "name": "Switch 2",
+          "model": "Model 2",
+          "ip": "10.215.99.42",
+          "side": "Right", "id": "1542",
+          "firmware": "1.0.0"
+        }
+      ]
+    },{
+      "floorNumber": 5,
+      "switches": [
+        {
+          "name": "Switch 1",
+          "model": "Model 1",
+          "ip": "10.215.99.51",
+          "side": "Left", "id": "1551",
+          "firmware": "1.0.0"
+        },
+        {
+          "name": "Switch 2",
+          "model": "Model 2",
+          "ip": "10.215.99.52",
+          "side": "Right", "id": "1552",
+          "firmware": "1.0.0"
+        }
+      ]
+    },{
+      "floorNumber": 6,
+      "switches": [
+        {
+          "name": "Switch 3",
+          "model": "Model 3",
+          "ip": "10.215.99.61",
+          "side": "Left", "id": "1561",
+          "firmware": "1.0.0"
+        },
+        {
+          "name": "Switch 4",
+          "model": "Model 4",
+          "ip": "10.215.99.62",
+          "side": "Right", "id": "1562",
+          "firmware": "1.0.0"
+        }
+      ]
+    },{
+      "floorNumber": 7,
+      "switches": [
+        {
+          "name": "Switch 3",
+          "model": "Model 3",
+          "ip": "10.215.99.71",
+          "side": "Left", "id": "1571",
+          "firmware": "1.0.0"
+        },
+        {
+          "name": "Switch 4",
+          "model": "Model 4",
+          "ip": "10.215.99.72",
+          "side": "Right", "id": "1572",
+          "firmware": "1.0.0"
+        }
+      ]
+    },{
+      "floorNumber": 8,
+      "switches": [
+        {
+          "name": "Switch 3",
+          "model": "Model 3",
+          "ip": "10.215.99.81",
+          "side": "Left", "id": "1581",
+          "firmware": "1.0.0"
+        },
+        {
+          "name": "Switch 4",
+          "model": "Model 4",
+          "ip": "10.215.99.82",
+          "side": "Right", "id": "1582",
+          "firmware": "1.0.0"
+        }
+      ]
+    },{
+      "floorNumber": 9,
+      "switches": [
+        {
+          "name": "Switch 3",
+          "model": "Model 3",
+          "ip": "10.215.99.91",
+          "side": "Left", "id": "1591",
+          "firmware": "1.0.0"
+        },
+        {
+          "name": "Switch 4",
+          "model": "Model 4",
+          "ip": "10.215.99.92",
+          "side": "Right", "id": "1592",
+          "firmware": "1.0.0"
+        }
+      ]
+    }
+  ]
+},{
+  "dormName": "Dorm 16",
+  "floors": [
+    {
+      "floorNumber": 1,
+      "switches": [
+        {
+          "name": "Center",
+          "model": "Model 1",
+          "ip": "10.216.99.1",
+          "side": "Left", "id": "16111",
+          "firmware": "1.0.0"
+        },{
+          "name": "Switch 1",
+          "model": "Model 1",
+          "ip": "10.216.99.11",
+          "side": "Left", "id": "1611",
+          "firmware": "1.0.0"
+        },
+        {
+          "name": "Switch 2",
+          "model": "Model 2",
+          "ip": "10.216.99.12",
+          "side": "Right", "id": "1612",
+          "firmware": "1.0.0"
+        }
+      ]
+    },{
+      "floorNumber": 2,
+      "switches": [
+        {
+          "name": "Switch 3",
+          "model": "Model 3",
+          "ip": "10.216.99.21",
+          "side": "Left", "id": "1621",
+          "firmware": "1.0.0"
+        },
+        {
+          "name": "Switch 4",
+          "model": "Model 4",
+          "ip": "10.216.99.22",
+          "side": "Right", "id": "1622",
+          "firmware": "1.0.0"
+        }
+      ]
+    },{
+      "floorNumber": 3,
+      "switches": [
+        {
+          "name": "Switch 5",
+          "model": "Model 1",
+          "ip": "10.216.99.31",
+          "side": "Left", "id": "1631",
+          "firmware": "1.0.0"
+        },
+        {
+          "name": "Switch 1",
+          "model": "Model 2",
+          "ip": "10.216.99.32",
+          "side": "Right", "id": "1632",
+          "firmware": "1.0.0"
+        }
+      ]
+    },{
+      "floorNumber": 4,
+      "switches": [
+        {
+          "name": "Switch 1",
+          "model": "Model 1",
+          "ip": "10.216.99.41",
+          "side": "Left", "id": "1641",
+          "firmware": "1.0.0"
+        },
+        {
+          "name": "Switch 2",
+          "model": "Model 2",
+          "ip": "10.216.99.42",
+          "side": "Right", "id": "1642",
+          "firmware": "1.0.0"
+        }
+      ]
+    },{
+      "floorNumber": 5,
+      "switches": [
+        {
+          "name": "Switch 1",
+          "model": "Model 1",
+          "ip": "10.216.99.51",
+          "side": "Left", "id": "1651",
+          "firmware": "1.0.0"
+        },
+        {
+          "name": "Switch 2",
+          "model": "Model 2",
+          "ip": "10.216.99.52",
+          "side": "Right", "id": "1652",
+          "firmware": "1.0.0"
+        }
+      ]
+    },{
+      "floorNumber": 6,
+      "switches": [
+        {
+          "name": "Switch 3",
+          "model": "Model 3",
+          "ip": "10.216.99.61",
+          "side": "Left", "id": "1661",
+          "firmware": "1.0.0"
+        },
+        {
+          "name": "Switch 4",
+          "model": "Model 4",
+          "ip": "10.216.99.62",
+          "side": "Right", "id": "1662",
+          "firmware": "1.0.0"
+        }
+      ]
+    },{
+      "floorNumber": 7,
+      "switches": [
+        {
+          "name": "Switch 3",
+          "model": "Model 3",
+          "ip": "10.216.99.71",
+          "side": "Left", "id": "1671",
+          "firmware": "1.0.0"
+        },
+        {
+          "name": "Switch 4",
+          "model": "Model 4",
+          "ip": "10.216.99.72",
+          "side": "Right", "id": "1672",
+          "firmware": "1.0.0"
+        }
+      ]
+    },{
+      "floorNumber": 8,
+      "switches": [
+        {
+          "name": "Switch 3",
+          "model": "Model 3",
+          "ip": "10.216.99.81",
+          "side": "Left", "id": "1681",
+          "firmware": "1.0.0"
+        },
+        {
+          "name": "Switch 4",
+          "model": "Model 4",
+          "ip": "10.216.99.82",
+          "side": "Right", "id": "1682",
+          "firmware": "1.0.0"
+        }
+      ]
+    },{
+      "floorNumber": 9,
+      "switches": [
+        {
+          "name": "Switch 3",
+          "model": "Model 3",
+          "ip": "10.216.99.91",
+          "side": "Left", "id": "1691",
+          "firmware": "1.0.0"
+        },
+        {
+          "name": "Switch 4",
+          "model": "Model 4",
+          "ip": "10.216.99.92",
+          "side": "Right", "id": "1692",
+          "firmware": "1.0.0"
+        }
+      ]
+    }
+  ]
+},{
+  "dormName": "Dorm 17",
+  "floors": [
+    {
+      "floorNumber": 1,
+      "switches": [
+        {
+          "name": "Center",
+          "model": "Model 1",
+          "ip": "10.217.99.1",
+          "side": "Left", "id": "17111",
+          "firmware": "1.0.0"
+        },{
+          "name": "Switch 1",
+          "model": "Model 1",
+          "ip": "10.217.99.11",
+          "side": "Left", "id": "1711",
+          "firmware": "1.0.0"
+        },
+        {
+          "name": "Switch 2",
+          "model": "Model 2",
+          "ip": "10.217.99.12",
+          "side": "Right", "id": "1712",
+          "firmware": "1.0.0"
+        }
+      ]
+    },{
+      "floorNumber": 2,
+      "switches": [
+        {
+          "name": "Switch 3",
+          "model": "Model 3",
+          "ip": "10.217.99.21",
+          "side": "Left", "id": "1721",
+          "firmware": "1.0.0"
+        },
+        {
+          "name": "Switch 4",
+          "model": "Model 4",
+          "ip": "10.217.99.22",
+          "side": "Right", "id": "1722",
+          "firmware": "1.0.0"
+        }
+      ]
+    },{
+      "floorNumber": 3,
+      "switches": [
+        {
+          "name": "Switch 5",
+          "model": "Model 1",
+          "ip": "10.217.99.31",
+          "side": "Left", "id": "1731",
+          "firmware": "1.0.0"
+        },
+        {
+          "name": "Switch 1",
+          "model": "Model 2",
+          "ip": "10.217.99.32",
+          "side": "Right", "id": "1732",
+          "firmware": "1.0.0"
+        }
+      ]
+    },{
+      "floorNumber": 4,
+      "switches": [
+        {
+          "name": "Switch 1",
+          "model": "Model 1",
+          "ip": "10.217.99.41",
+          "side": "Left", "id": "1741",
+          "firmware": "1.0.0"
+        },
+        {
+          "name": "Switch 2",
+          "model": "Model 2",
+          "ip": "10.217.99.42",
+          "side": "Right", "id": "1742",
+          "firmware": "1.0.0"
+        }
+      ]
+    },{
+      "floorNumber": 5,
+      "switches": [
+        {
+          "name": "Switch 1",
+          "model": "Model 1",
+          "ip": "10.217.99.51",
+          "side": "Left", "id": "1751",
+          "firmware": "1.0.0"
+        },
+        {
+          "name": "Switch 2",
+          "model": "Model 2",
+          "ip": "10.217.99.52",
+          "side": "Right", "id": "1752",
+          "firmware": "1.0.0"
+        }
+      ]
+    },{
+      "floorNumber": 6,
+      "switches": [
+        {
+          "name": "Switch 3",
+          "model": "Model 3",
+          "ip": "10.217.99.61",
+          "side": "Left", "id": "1761",
+          "firmware": "1.0.0"
+        },
+        {
+          "name": "Switch 4",
+          "model": "Model 4",
+          "ip": "10.217.99.62",
+          "side": "Right", "id": "1762",
+          "firmware": "1.0.0"
+        }
+      ]
+    },{
+      "floorNumber": 7,
+      "switches": [
+        {
+          "name": "Switch 3",
+          "model": "Model 3",
+          "ip": "10.217.99.71",
+          "side": "Left", "id": "1771",
+          "firmware": "1.0.0"
+        },
+        {
+          "name": "Switch 4",
+          "model": "Model 4",
+          "ip": "10.217.99.72",
+          "side": "Right", "id": "1772",
+          "firmware": "1.0.0"
+        }
+      ]
+    },{
+      "floorNumber": 8,
+      "switches": [
+        {
+          "name": "Switch 3",
+          "model": "Model 3",
+          "ip": "10.217.99.81",
+          "side": "Left", "id": "1781",
+          "firmware": "1.0.0"
+        },
+        {
+          "name": "Switch 4",
+          "model": "Model 4",
+          "ip": "10.217.99.82",
+          "side": "Right", "id": "1782",
+          "firmware": "1.0.0"
+        }
+      ]
+    },{
+      "floorNumber": 9,
+      "switches": [
+        {
+          "name": "Switch 3",
+          "model": "Model 3",
+          "ip": "10.217.99.91",
+          "side": "Left", "id": "1791",
+          "firmware": "1.0.0"
+        },
+        {
+          "name": "Switch 4",
+          "model": "Model 4",
+          "ip": "10.217.99.92",
+          "side": "Right", "id": "1792",
+          "firmware": "1.0.0"
+        }
+      ]
+    }
+  ]
+},{
+  "dormName": "Dorm 18",
+  "floors": [
+    {
+      "floorNumber": 1,
+      "switches": [
+        {
+          "name": "Center",
+          "model": "Model 1",
+          "ip": "10.218.99.1",
+          "side": "Left", "id": "18111",
+          "firmware": "1.0.0"
+        },{
+          "name": "Switch 1",
+          "model": "Model 1",
+          "ip": "10.218.99.11",
+          "side": "Left", "id": "1811",
+          "firmware": "1.0.0"
+        },
+        {
+          "name": "Switch 2",
+          "model": "Model 2",
+          "ip": "10.218.99.12",
+          "side": "Right", "id": "1812",
+          "firmware": "1.0.0"
+        }
+      ]
+    },{
+      "floorNumber": 2,
+      "switches": [
+        {
+          "name": "Switch 3",
+          "model": "Model 3",
+          "ip": "10.218.99.21",
+          "side": "Left", "id": "1821",
+          "firmware": "1.0.0"
+        },
+        {
+          "name": "Switch 4",
+          "model": "Model 4",
+          "ip": "10.218.99.22",
+          "side": "Right", "id": "1822",
+          "firmware": "1.0.0"
+        }
+      ]
+    },{
+      "floorNumber": 3,
+      "switches": [
+        {
+          "name": "Switch 5",
+          "model": "Model 1",
+          "ip": "10.218.99.31",
+          "side": "Left", "id": "1831",
+          "firmware": "1.0.0"
+        },
+        {
+          "name": "Switch 1",
+          "model": "Model 2",
+          "ip": "10.218.99.32",
+          "side": "Right", "id": "1832",
+          "firmware": "1.0.0"
+        }
+      ]
+    },{
+      "floorNumber": 4,
+      "switches": [
+        {
+          "name": "Switch 1",
+          "model": "Model 1",
+          "ip": "10.218.99.41",
+          "side": "Left", "id": "1841",
+          "firmware": "1.0.0"
+        },
+        {
+          "name": "Switch 2",
+          "model": "Model 2",
+          "ip": "10.218.99.42",
+          "side": "Right", "id": "1842",
+          "firmware": "1.0.0"
+        }
+      ]
+    },{
+      "floorNumber": 5,
+      "switches": [
+        {
+          "name": "Switch 1",
+          "model": "Model 1",
+          "ip": "10.218.99.51",
+          "side": "Left", "id": "1851",
+          "firmware": "1.0.0"
+        },
+        {
+          "name": "Switch 2",
+          "model": "Model 2",
+          "ip": "10.218.99.52",
+          "side": "Right", "id": "1852",
+          "firmware": "1.0.0"
+        }
+      ]
+    },{
+      "floorNumber": 6,
+      "switches": [
+        {
+          "name": "Switch 3",
+          "model": "Model 3",
+          "ip": "10.218.99.61",
+          "side": "Left", "id": "1861",
+          "firmware": "1.0.0"
+        },
+        {
+          "name": "Switch 4",
+          "model": "Model 4",
+          "ip": "10.218.99.62",
+          "side": "Right", "id": "1862",
+          "firmware": "1.0.0"
+        }
+      ]
+    },{
+      "floorNumber": 7,
+      "switches": [
+        {
+          "name": "Switch 3",
+          "model": "Model 3",
+          "ip": "10.218.99.71",
+          "side": "Left", "id": "1871",
+          "firmware": "1.0.0"
+        },
+        {
+          "name": "Switch 4",
+          "model": "Model 4",
+          "ip": "10.218.99.72",
+          "side": "Right", "id": "1872",
+          "firmware": "1.0.0"
+        }
+      ]
+    },{
+      "floorNumber": 8,
+      "switches": [
+        {
+          "name": "Switch 3",
+          "model": "Model 3",
+          "ip": "10.218.99.81",
+          "side": "Left", "id": "1881",
+          "firmware": "1.0.0"
+        },
+        {
+          "name": "Switch 4",
+          "model": "Model 4",
+          "ip": "10.218.99.82",
+          "side": "Right", "id": "1882",
+          "firmware": "1.0.0"
+        }
+      ]
+    },{
+      "floorNumber": 9,
+      "switches": [
+        {
+          "name": "Switch 3",
+          "model": "Model 3",
+          "ip": "10.218.99.91",
+          "side": "Left", "id": "1891",
+          "firmware": "1.0.0"
+        },
+        {
+          "name": "Switch 4",
+          "model": "Model 4",
+          "ip": "10.218.99.92",
+          "side": "Right", "id": "1892",
+          "firmware": "1.0.0"
+        }
+      ]
+    }
+  ]
+},{
+  "dormName": "Dorm 19",
+  "floors": [
+    {
+      "floorNumber": 1,
+      "switches": [
+        {
+          "name": "Center",
+          "model": "Model 1",
+          "ip": "10.200.0.19",
+          "side": "Left", "id": "19111",
+          "firmware": "1.0.0"
+        },{
+          "name": "Switch 1",
+          "model": "Model 1",
+          "ip": "10.219.99.11",
+          "side": "Left", "id": "1911",
+          "firmware": "1.0.0"
+        },
+        {
+          "name": "Switch 2",
+          "model": "Model 2",
+          "ip": "10.219.99.12",
+          "side": "Right", "id": "1912",
+          "firmware": "1.0.0"
+        }
+      ]
+    },{
+      "floorNumber": 2,
+      "switches": [
+        {
+          "name": "Switch 3",
+          "model": "Model 3",
+          "ip": "10.219.99.21",
+          "side": "Left", "id": "1921",
+          "firmware": "1.0.0"
+        },
+        {
+          "name": "Switch 4",
+          "model": "Model 4",
+          "ip": "10.219.99.22",
+          "side": "Right", "id": "1922",
+          "firmware": "1.0.0"
+        }
+      ]
+    },{
+      "floorNumber": 3,
+      "switches": [
+        {
+          "name": "Switch 5",
+          "model": "Model 1",
+          "ip": "10.219.99.31",
+          "side": "Left", "id": "1931",
+          "firmware": "1.0.0"
+        },
+        {
+          "name": "Switch 1",
+          "model": "Model 2",
+          "ip": "10.219.99.32",
+          "side": "Right", "id": "1932",
+          "firmware": "1.0.0"
+        }
+      ]
+    },{
+      "floorNumber": 4,
+      "switches": [
+        {
+          "name": "Switch 1",
+          "model": "Model 1",
+          "ip": "10.219.99.41",
+          "side": "Left", "id": "1941",
+          "firmware": "1.0.0"
+        },
+        {
+          "name": "Switch 2",
+          "model": "Model 2",
+          "ip": "10.219.99.42",
+          "side": "Right", "id": "1942",
+          "firmware": "1.0.0"
+        }
+      ]
+    },{
+      "floorNumber": 5,
+      "switches": [
+        {
+          "name": "Switch 1",
+          "model": "Model 1",
+          "ip": "10.219.99.51",
+          "side": "Left", "id": "1951",
+          "firmware": "1.0.0"
+        },
+        {
+          "name": "Switch 2",
+          "model": "Model 2",
+          "ip": "10.219.99.52",
+          "side": "Right", "id": "1952",
+          "firmware": "1.0.0"
+        }
+      ]
+    },{
+      "floorNumber": 6,
+      "switches": [
+        {
+          "name": "Switch 3",
+          "model": "Model 3",
+          "ip": "10.219.99.61",
+          "side": "Left", "id": "1961",
+          "firmware": "1.0.0"
+        },
+        {
+          "name": "Switch 4",
+          "model": "Model 4",
+          "ip": "10.219.99.62",
+          "side": "Right", "id": "1962",
+          "firmware": "1.0.0"
+        }
+      ]
+    },{
+      "floorNumber": 7,
+      "switches": [
+        {
+          "name": "Switch 3",
+          "model": "Model 3",
+          "ip": "10.219.99.71",
+          "side": "Left", "id": "1971",
+          "firmware": "1.0.0"
+        },
+        {
+          "name": "Switch 4",
+          "model": "Model 4",
+          "ip": "10.219.99.72",
+          "side": "Right", "id": "1972",
+          "firmware": "1.0.0"
+        }
+      ]
+    },{
+      "floorNumber": 8,
+      "switches": [
+        {
+          "name": "Switch 3",
+          "model": "Model 3",
+          "ip": "10.219.99.81",
+          "side": "Left", "id": "1981",
+          "firmware": "1.0.0"
+        },
+        {
+          "name": "Switch 4",
+          "model": "Model 4",
+          "ip": "10.219.99.82",
+          "side": "Right", "id": "1982",
+          "firmware": "1.0.0"
+        }
+      ]
+    },{
+      "floorNumber": 9,
+      "switches": [
+        {
+          "name": "Switch 3",
+          "model": "Model 3",
+          "ip": "10.219.99.91",
+          "side": "Left", "id": "1991",
+          "firmware": "1.0.0"
+        },
+        {
+          "name": "Switch 4",
+          "model": "Model 4",
+          "ip": "10.219.99.92",
+          "side": "Right", "id": "1992",
+          "firmware": "1.0.0"
+        }
+      ]
+    }
+  ]
+},{
+  "dormName": "Dorm 20",
+  "floors": [
+    {
+      "floorNumber": 1,
+      "switches": [
+        {
+          "name": "Center",
+          "model": "Model 1",
+          "ip": "10.220.99.1",
+          "side": "Left", "id": "20111",
+          "firmware": "1.0.0"
+        },{
+          "name": "Switch 1",
+          "model": "Model 1",
+          "ip": "10.220.99.11",
+          "side": "Left", "id": "2011",
+          "firmware": "1.0.0"
+        },
+        {
+          "name": "Switch 2",
+          "model": "Model 2",
+          "ip": "10.220.99.12",
+          "side": "Right", "id": "2012",
+          "firmware": "1.0.0"
+        }
+      ]
+    },{
+      "floorNumber": 2,
+      "switches": [
+        {
+          "name": "Switch 3",
+          "model": "Model 3",
+          "ip": "10.220.99.21",
+          "side": "Left", "id": "2021",
+          "firmware": "1.0.0"
+        },
+        {
+          "name": "Switch 4",
+          "model": "Model 4",
+          "ip": "10.220.99.22",
+          "side": "Right", "id": "2022",
+          "firmware": "1.0.0"
+        }
+      ]
+    },{
+      "floorNumber": 3,
+      "switches": [
+        {
+          "name": "Switch 5",
+          "model": "Model 1",
+          "ip": "10.220.99.31",
+          "side": "Left", "id": "2031",
+          "firmware": "1.0.0"
+        },
+        {
+          "name": "Switch 1",
+          "model": "Model 2",
+          "ip": "10.220.99.32",
+          "side": "Right", "id": "2032",
+          "firmware": "1.0.0"
+        }
+      ]
+    },{
+      "floorNumber": 4,
+      "switches": [
+        {
+          "name": "Switch 1",
+          "model": "Model 1",
+          "ip": "10.220.99.41",
+          "side": "Left", "id": "2041",
+          "firmware": "1.0.0"
+        },
+        {
+          "name": "Switch 2",
+          "model": "Model 2",
+          "ip": "10.220.99.42",
+          "side": "Right", "id": "2042",
+          "firmware": "1.0.0"
+        }
+      ]
+    },{
+      "floorNumber": 5,
+      "switches": [
+        {
+          "name": "Switch 1",
+          "model": "Model 1",
+          "ip": "10.220.99.51",
+          "side": "Left", "id": "2051",
+          "firmware": "1.0.0"
+        },
+        {
+          "name": "Switch 2",
+          "model": "Model 2",
+          "ip": "10.220.99.52",
+          "side": "Right", "id": "2052",
+          "firmware": "1.0.0"
+        }
+      ]
+    },{
+      "floorNumber": 6,
+      "switches": [
+        {
+          "name": "Switch 3",
+          "model": "Model 3",
+          "ip": "10.220.99.61",
+          "side": "Left", "id": "2061",
+          "firmware": "1.0.0"
+        },
+        {
+          "name": "Switch 4",
+          "model": "Model 4",
+          "ip": "10.220.99.62",
+          "side": "Right", "id": "2062",
+          "firmware": "1.0.0"
+        }
+      ]
+    },{
+      "floorNumber": 7,
+      "switches": [
+        {
+          "name": "Switch 3",
+          "model": "Model 3",
+          "ip": "10.220.99.71",
+          "side": "Left", "id": "2071",
+          "firmware": "1.0.0"
+        },
+        {
+          "name": "Switch 4",
+          "model": "Model 4",
+          "ip": "10.220.99.72",
+          "side": "Right", "id": "2072",
+          "firmware": "1.0.0"
+        }
+      ]
+    },{
+      "floorNumber": 8,
+      "switches": [
+        {
+          "name": "Switch 3",
+          "model": "Model 3",
+          "ip": "10.220.99.81",
+          "side": "Left", "id": "2081",
+          "firmware": "1.0.0"
+        },
+        {
+          "name": "Switch 4",
+          "model": "Model 4",
+          "ip": "10.220.99.82",
+          "side": "Right", "id": "2082",
+          "firmware": "1.0.0"
+        }
+      ]
+    },{
+      "floorNumber": 9,
+      "switches": [
+        {
+          "name": "Switch 3",
+          "model": "Model 3",
+          "ip": "10.220.99.91",
+          "side": "Left", "id": "2091",
+          "firmware": "1.0.0"
+        },
+        {
+          "name": "Switch 4",
+          "model": "Model 4",
+          "ip": "10.220.99.92",
+          "side": "Right", "id": "2092",
+          "firmware": "1.0.0"
+        }
+      ]
+    }
+  ]
+},{
+  "dormName": "Dorm 21",
+  "floors": [
+      {
+        "floorNumber": 1,
+        "switches": [
+          {
+            "name": "Switch 1",
+            "model": "Model 1",
+            "ip": "10.221.99.1",
+            "side": "Left", "id": "21111",
+            "firmware": "1.0.0"
+          },{
+            "name": "Switch 1",
+            "model": "Model 1",
+            "ip": "10.221.99.11",
+            "side": "Left", "id": "2111",
+            "firmware": "1.0.0"
+          },
+          {
+            "name": "Switch 2",
+            "model": "Model 2",
+            "ip": "10.221.99.12",
+            "side": "Right", "id": "2112",
+            "firmware": "1.0.0"
+          },
+          {
+            "name": "Switch 3",
+            "model": "Model 2",
+            "ip": "10.221.99.13",
+            "side": "Right", "id": "2113",
+            "firmware": "1.0.0"
+          },
+          {
+            "name": "Switch 4",
+            "model": "Model 2",
+            "ip": "10.221.99.14",
+            "side": "Right", "id": "2114",
+            "firmware": "1.0.0"
+          }
+        ]
+      },{
+        "floorNumber": 2,
+        "switches": [
+          {
+            "name": "Switch 1",
+            "model": "Model 1",
+            "ip": "10.221.99.21",
+            "side": "Left", "id": "2121",
+            "firmware": "1.0.0"
+          },
+          {
+            "name": "Switch 2",
+            "model": "Model 2",
+            "ip": "10.221.99.22",
+            "side": "Right", "id": "2122",
+            "firmware": "1.0.0"
+          },
+          {
+            "name": "Switch 3",
+            "model": "Model 2",
+            "ip": "10.221.99.23",
+            "side": "Right", "id": "2123",
+            "firmware": "1.0.0"
+          },
+          {
+            "name": "Switch 4",
+            "model": "Model 2",
+            "ip": "10.221.99.24",
+            "side": "Right", "id": "2124",
+            "firmware": "1.0.0"
+          }
+        ]
+      },{
+        "floorNumber": 3,
+        "switches": [
+          {
+            "name": "Switch 1",
+            "model": "Model 1",
+            "ip": "10.221.99.31",
+            "side": "Left", "id": "2131",
+            "firmware": "1.0.0"
+          },
+          {
+            "name": "Switch 2",
+            "model": "Model 2",
+            "ip": "10.221.99.32",
+            "side": "Right", "id": "2132",
+            "firmware": "1.0.0"
+          },
+          {
+            "name": "Switch 3",
+            "model": "Model 2",
+            "ip": "10.221.99.33",
+            "side": "Right", "id": "2133",
+            "firmware": "1.0.0"
+          },
+          {
+            "name": "Switch 4",
+            "model": "Model 2",
+            "ip": "10.221.99.34",
+            "side": "Right", "id": "2134",
+            "firmware": "1.0.0"
+          }
+        ]
+      },{
+        "floorNumber": 4,
+        "switches": [
+          {
+            "name": "Switch 1",
+            "model": "Model 1",
+            "ip": "10.221.99.41",
+            "side": "Left", "id": "2141",
+            "firmware": "1.0.0"
+          },
+          {
+            "name": "Switch 2",
+            "model": "Model 2",
+            "ip": "10.221.99.42",
+            "side": "Right", "id": "2142",
+            "firmware": "1.0.0"
+          },
+          {
+            "name": "Switch 3",
+            "model": "Model 2",
+            "ip": "10.221.99.43",
+            "side": "Right", "id": "2143",
+            "firmware": "1.0.0"
+          },
+          {
+            "name": "Switch 4",
+            "model": "Model 2",
+            "ip": "10.221.99.44",
+            "side": "Right", "id": "2144",
+            "firmware": "1.0.0"
+          }
+        ]
+      },{
+        "floorNumber": 5,
+        "switches": [
+          {
+            "name": "Switch 1",
+            "model": "Model 1",
+            "ip": "10.221.99.51",
+            "side": "Left", "id": "2151",
+            "firmware": "1.0.0"
+          },
+          {
+            "name": "Switch 2",
+            "model": "Model 2",
+            "ip": "10.221.99.52",
+            "side": "Right", "id": "2152",
+            "firmware": "1.0.0"
+          },
+          {
+            "name": "Switch 3",
+            "model": "Model 2",
+            "ip": "10.221.99.53",
+            "side": "Right", "id": "2153",
+            "firmware": "1.0.0"
+          },
+          {
+            "name": "Switch 4",
+            "model": "Model 2",
+            "ip": "10.221.99.54",
+            "side": "Right", "id": "2154",
+            "firmware": "1.0.0"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,9 @@
+.sw-info-block{
+    position: relative;
+    display: flex;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+    padding: 20px;
+    flex-direction: column;
+    text-align: left;
+    gap: 10px;
+}
