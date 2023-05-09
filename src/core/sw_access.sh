@@ -14,6 +14,7 @@ fi
 
 # Open a screen session and execute telnet command with the IP address
 screen -dmS telnet-session bash
-screen -r telnet-session -X stuff "telnet $ip"$(echo -ne '\015')
 #echo "Telnet session started with switch at IP $ip"
+screen -r telnet-session -X stuff "telnet $ip"$(echo -ne '\015')
+
 screen -r telnet-session
